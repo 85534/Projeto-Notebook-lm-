@@ -1,5 +1,5 @@
 # Projeto-Notebook-lm-
-Projeto desenvolvido para entregar deafio
+Projeto desenvolvido para entregar desafio
 
 a fibra óptica vai ser substituída pelo satélite 
 
